@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662235756 source:c:\users\lab estudiante\desktop\el_ascensor\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
