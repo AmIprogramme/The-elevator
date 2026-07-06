@@ -38,7 +38,7 @@ A console-based elevator simulator built in C++ for Windows, featuring a custom 
 This is a learning project developed to practice control flow, console I/O manipulation, and basic exception handling in C++.
 
 ## Diagram
-![image alt]()
+![image alt](https://github.com/AmIprogramme/The-elevator/blob/af5454d9eb41284189a535010152375fdac05aa7/diagram-export-24-7-2024-18_53_04.png)
 
 ## Author
 
